@@ -7,7 +7,7 @@ Building robust systems with focus on architecture, scalability and clean engine
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 - Systems Engineer
 - FullStack Developer
 - Experience in VR development (Meta Quest)
@@ -22,7 +22,7 @@ Building robust systems with focus on architecture, scalability and clean engine
 
 ### Languages
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
@@ -32,7 +32,7 @@ Building robust systems with focus on architecture, scalability and clean engine
 
 ### Frontend
 <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/>
 </p>
@@ -49,8 +49,7 @@ Building robust systems with focus on architecture, scalability and clean engine
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"/>
-
-</p
+</p>
 
 ### VR/XR
 <p>
@@ -59,7 +58,7 @@ Building robust systems with focus on architecture, scalability and clean engine
 </p>
 
 ---
-## 📫 Contact
+## 📫 Contact Me
 
 <p>
   <a href="https://www.linkedin.com/in/inaki-arzalluz/">
