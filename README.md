@@ -11,7 +11,7 @@ Building robust systems with focus on architecture, scalability and clean engine
 - Systems Engineer
 - FullStack Developer
 - Experience in VR development (Meta Quest)
-- <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=16&duration=3500&pause=3500&color=2f855a&vCenter=true&height=16&lines=Always+open+to+new+ideas+and+opportunities" style="vertical-align: -2px;"/>
+- <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=14&duration=3500&pause=3500&color=2f855a&vCenter=true&height=14&lines=Always+open+to+new+ideas+and+opportunities" style="vertical-align: -2px;"/>
 
 
 
