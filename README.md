@@ -41,13 +41,13 @@ Building robust systems with focus on architecture, scalability and clean engine
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+  <img src="https://cdn.simpleicons.org/express/6e7681" height="40" />
 </p>
 
 ### VR/XR
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/meta.svg"  height="40"/>
+  <img src="https://cdn.simpleicons.org/meta/0467DF" height="40" />
 </p>
 
 ---
